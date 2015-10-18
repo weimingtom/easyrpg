@@ -1,0 +1,1 @@
+EasyRPG is a project aimed at producing a Role Playing Game interpreter and editor tool for playing and creating click and play games, inspired by RPG Maker (RPGツクール) Japanese software series.
